@@ -1,0 +1,102 @@
+Informe de imágenes en about.html:
+
+Filename: logo.jpg
+Dimensions: unknown x unknown
+Alt Text: ATRS1 Roofing
+Suggested SEO Text: ATRS1 Roofing in ATRS1 Roofing St Louis
+
+Filename: logo
+Dimensions: unknown x unknown
+Alt Text: ATRS1 Roofing
+Suggested SEO Text: ATRS1 Roofing in ATRS1 Roofing St Louis
+
+Filename: logo-small.jpg
+Dimensions: unknown x unknown
+Alt Text: ATRS1 Roofing
+Suggested SEO Text: ATRS1 Roofing in ATRS1 Roofing St Louis
+
+Filename: logo-small
+Dimensions: unknown x unknown
+Alt Text: ATRS1 Roofing
+Suggested SEO Text: ATRS1 Roofing in ATRS1 Roofing St Louis
+
+Filename: mobile-logo.jpg
+Dimensions: unknown x unknown
+Alt Text: ATRS1
+Suggested SEO Text: ATRS1 in ATRS1 Roofing St Louis
+
+Filename: mobile-logo
+Dimensions: unknown x unknown
+Alt Text: ATRS1
+Suggested SEO Text: ATRS1 in ATRS1 Roofing St Louis
+
+Filename: about.jpg
+Dimensions: unknown x unknown
+Alt Text: Professional roofing services in St. Louis
+Suggested SEO Text: Professional roofing services in St. Louis in ATRS1 Roofing St Louis
+
+Filename: about
+Dimensions: 559 x 603
+Alt Text: Professional roofing services in St. Louis
+Suggested SEO Text: Professional roofing services in St. Louis in ATRS1 Roofing St Louis
+
+Filename: mission-1.jpg
+Dimensions: unknown x unknown
+Alt Text: Our Mission
+Suggested SEO Text: Our Mission in ATRS1 Roofing St Louis
+
+Filename: mission-1
+Dimensions: 278 x 544
+Alt Text: Our Mission
+Suggested SEO Text: Our Mission in ATRS1 Roofing St Louis
+
+Filename: mission-2.jpg
+Dimensions: unknown x unknown
+Alt Text: Our Vision
+Suggested SEO Text: Our Vision in ATRS1 Roofing St Louis
+
+Filename: mission-2
+Dimensions: 278 x 544
+Alt Text: Our Vision
+Suggested SEO Text: Our Vision in ATRS1 Roofing St Louis
+
+Filename: team-1.jpg
+Dimensions: unknown x unknown
+Alt Text: Jameson Bannister - Roofing Worker
+Suggested SEO Text: Jameson Bannister - Roofing Worker in ATRS1 Roofing St Louis
+
+Filename: team-1
+Dimensions: 300 x 362
+Alt Text: Jameson Bannister - Roofing Worker
+Suggested SEO Text: Jameson Bannister - Roofing Worker in ATRS1 Roofing St Louis
+
+Filename: team-2.jpg
+Dimensions: unknown x unknown
+Alt Text: Shauanna Banks - Roofing Worker
+Suggested SEO Text: Shauanna Banks - Roofing Worker in ATRS1 Roofing St Louis
+
+Filename: team-2
+Dimensions: 300 x 362
+Alt Text: Shauanna Banks - Roofing Worker
+Suggested SEO Text: Shauanna Banks - Roofing Worker in ATRS1 Roofing St Louis
+
+Filename: team-3.jpg
+Dimensions: unknown x unknown
+Alt Text: Patrick Garrison - Roofing Worker
+Suggested SEO Text: Patrick Garrison - Roofing Worker in ATRS1 Roofing St Louis
+
+Filename: team-3
+Dimensions: 300 x 362
+Alt Text: Patrick Garrison - Roofing Worker
+Suggested SEO Text: Patrick Garrison - Roofing Worker in ATRS1 Roofing St Louis
+
+Filename: team-4.jpg
+Dimensions: unknown x unknown
+Alt Text: Patrick Garrison - Roofing Worker
+Suggested SEO Text: Patrick Garrison - Roofing Worker in ATRS1 Roofing St Louis
+
+Filename: team-4
+Dimensions: 300 x 362
+Alt Text: Patrick Garrison - Roofing Worker
+Suggested SEO Text: Patrick Garrison - Roofing Worker in ATRS1 Roofing St Louis
+
